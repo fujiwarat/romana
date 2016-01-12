@@ -53,8 +53,8 @@ PO_HEADER_FORMAT = u'''\
 # This file is distributed under the same license as the package.
 msgid ""
 msgstr ""
-"Project-Id-Version: calamari-clients master\\n"
-"Report-Msgid-Bugs-To: https://github.com/ceph/calamari-clients/issues\\n"
+"Project-Id-Version: romana master\\n"
+"Report-Msgid-Bugs-To: https://github.com/ceph/romana/issues\\n"
 "POT-Creation-Date: %s\\n"
 "PO-Revision-Date: %s\\n"
 "Last-Translator: %s\\n"
